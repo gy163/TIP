@@ -1,6 +1,8 @@
 Identincaton of acive moleacules against thrombocytopenia through machine learning
 
-A tool for acive moleacules prediction of thrombocytopenia. To use this tool, there are several steps：
+A tool for acive moleacules prediction of thrombocytopenia. 
+
+To use this tool, there are several steps：
 
 #Step 1 Installation Anaconda Go to "https://docs.anaconda.com/free/anaconda/install/windows/" to download and install Anaconda
 
